@@ -4,4 +4,4 @@ title: "Home"
 ---
 
 
-Hello, this is my website. You can see my cv here <a href="/simple1.pdf">Download PDF</a>.
+Hi! I am a PhD candidate in The School of Economics at . You can see my cv <a href="/simple1.pdf">here</a>.
