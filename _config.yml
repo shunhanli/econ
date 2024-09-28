@@ -1,3 +1,6 @@
+title: My Website
+description: A simple site using Jekyll and the Cayman theme.
+
 theme: jekyll-theme-cayman
 markdown: kramdown
 
@@ -10,3 +13,8 @@ theme_settings:
       url: "/cv/"
     - title: "Publications"   # 新增的 Publications 链接
       url: "/publications/"
+nav:
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
