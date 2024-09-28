@@ -5,4 +5,4 @@ title: "Publications"
 ---
 
 
-Hello there, this is my website. You can see the info.
+Hello, this is my website. You can see the info.
