@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: "minimal-mistakes-jekyll"
 markdown: kramdown
 
 # 自定义导航链接
