@@ -6,7 +6,7 @@ theme_settings:
   header_links:
     - title: "Home"
       url: "/"
-    - title: "Projects"
-      url: "/projects/"
+    - title: "cv"
+      url: "/cv/"
     - title: "Publications"   # 新增的 Publications 链接
       url: "/publications/"
