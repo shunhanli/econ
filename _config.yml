@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
+
+# 自定义导航链接
+theme_settings:
+  header_links:
+    - title: "Home"
+      url: "/"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Publications"   # 新增的 Publications 链接
+      url: "/publications/"
